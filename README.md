@@ -30,8 +30,8 @@ I work at the intersection of economic analysis and technology, combining analyt
 
 ## Skills
 - **Languages:** Python, R, SQL, basic HTML/CSS/JS, Java
-- **ML/DL:** neural networks fundamentals, CNNs, fine-tuning, RNNs 
-  (with a focus on Echo State Networks), reinforcement learning theory
+- **ML/DL:** neural networks fundamentals, CNNs, fine-tuning and transfer learning, RNNs 
+  (with a focus on Echo State Networks), basic reinforcement learning
 - **Data:** data analysis, database management, financial data analysis
 - **Tools:** Git, Jupyter
 
