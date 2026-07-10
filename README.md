@@ -36,4 +36,4 @@ I work at the intersection of economic analysis and technology, combining analyt
 - **Tools:** Git, Jupyter
 
 ## Let's connect
-🔗 [LinkedIn](www.linkedin.com/in/grimaldi-giulia)
+🔗 [LinkedIn](https://linkedin.com/in/grimaldi-giulia)
